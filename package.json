@@ -1,0 +1,24 @@
+{
+  "name": "exercise-back",
+  "version": "1.0.0",
+  "description": "the back end ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sagiv1996"
+  },
+  "keywords": [
+    "exspress",
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "sagiv bonali",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs": "0.0.0"
+  }
+}
